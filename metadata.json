@@ -1,0 +1,5 @@
+{
+  "name": "Magnet Streamer",
+  "description": "A web-based torrent client that streams magnet links via HTTP, similar to ZBIGZ.",
+  "requestFramePermissions": []
+}
